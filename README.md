@@ -348,9 +348,13 @@ npm run dev
 Create a `.env` file inside the **backend** folder.
 
 ```
-PORT=5000
-MONGO_URI=your_mongodb_connection
-JWT_SECRET=your_secret_key
+PORT=4000
+MONGO_URI=mongodb://127.0.0.1:27017/shopdb
+JWT_SECRET=123456
+
+CLOUDINARY_NAME=didbllnmc
+CLOUDINARY_KEY=889797647366931
+CLOUDINARY_SECRET=C4Hg_yzXgNOPEce_gAmvPGvu0Uo
 ```
 
 ---
