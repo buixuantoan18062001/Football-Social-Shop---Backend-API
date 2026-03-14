@@ -80,12 +80,6 @@ MongoDB Database
 
 Authentication is handled using **JWT Tokens**.
 
-Protected routes require the following header:
-
-```
-Authorization: Bearer <token>
-```
-
 ```
 /api/auth
 ```
