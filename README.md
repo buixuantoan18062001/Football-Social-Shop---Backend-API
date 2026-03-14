@@ -76,32 +76,6 @@ MongoDB Database
 
 ---
 
-# 📂 Project Structure
-
-```
-football-social-shop
-│
-├── backend
-│   ├── controllers
-│   ├── models
-│   ├── routes
-│   ├── middleware
-│   ├── services
-│   ├── config
-│   └── server.js
-│
-├── frontend
-│   ├── src
-│   │   ├── pages
-│   │   ├── components
-│   │   ├── api
-│   │   └── App.jsx
-│
-└── README.md
-```
-
----
-
 # 🔐 Authentication
 
 Authentication is handled using **JWT Tokens**.
