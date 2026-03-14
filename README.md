@@ -324,7 +324,3 @@ This project demonstrates:
 * Scalable backend architecture
 
 ---
-
-# 👨‍💻 Author
-
-Developed as a **Fullstack Portfolio Project** to practice modern web development technologies.
