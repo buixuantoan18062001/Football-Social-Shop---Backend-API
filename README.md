@@ -50,8 +50,6 @@ Backend (Node.js + Express)
        │
        ▼
 MongoDB Database
-```
-
 ---
 
 # 🧰 Tech Stack
