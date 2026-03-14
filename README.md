@@ -86,20 +86,6 @@ Protected routes require the following header:
 Authorization: Bearer <token>
 ```
 
----
-
-# 🌐 Backend API
-
-Base URL
-
-```
-/api
-```
-
----
-
-# 🔐 AUTH
-
 ```
 /api/auth
 ```
